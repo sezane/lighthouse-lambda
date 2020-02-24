@@ -38,7 +38,7 @@
   "homepage": "https://github.com/AlanSwenson/lighthouse-lambda#readme",
   "dependencies": {
     "chrome-aws-lambda": "^2.1.1",
-    "lighthouse": "git@github.com/GoogleChrome/lighthouse#53a8619106a4c6bff52bb4fced85cdac59be6996"
+    "lighthouse": "git@github.com/GoogleChrome/lighthouse"
   },
   "devDependencies": {
     "standard": "^11.0.1"
